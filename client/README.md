@@ -2,7 +2,7 @@
 
 An assignment from zelthy. allows a visitor see 10 random person and they can able to edit and delete
 
- [Live Demo](https://serene-cray-a3cd42.netlify.app/)
+ [Live Demo](https://happy-bhabha-07c78d.netlify.app/)
 
 ## Usage
 
@@ -65,9 +65,12 @@ I don't own the content such as icons and images on this web app, this was purel
 
 ### Screenshots
 
+![1](https://user-images.githubusercontent.com/51481112/128302007-f1c7d957-6b1d-4cf9-aa64-a0b16e482c9d.jpg)
+![2](https://user-images.githubusercontent.com/51481112/128302024-c902b035-b30a-4944-8397-f7ea560a26da.jpg)
+![3](https://user-images.githubusercontent.com/51481112/128302031-b2cb12b7-9625-428f-905f-3e342d33da5b.jpg)
+![4](https://user-images.githubusercontent.com/51481112/128302046-534464eb-e9f7-4659-8cb8-38b6295447a1.jpg)
 
 
-![tartan_1](https://user-images.githubusercontent.com/51481112/126263173-42a9a6a8-d9ed-4c39-a222-33326dc219fd.jpg)
 
 
 ### Contributors
