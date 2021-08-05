@@ -2,7 +2,7 @@
 
 An assignment from zelthy. allows a visitor see 10 random person and they can able to edit and delete
 
- [Live Demo](https://serene-cray-a3cd42.netlify.app/)
+ [Live Demo](https://happy-bhabha-07c78d.netlify.app/)
 
 ## Usage
 
