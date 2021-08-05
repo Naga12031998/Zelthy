@@ -1,46 +1,75 @@
-# Getting Started with Create React App
+# Zelthy Assignment 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An assignment from zelthy. allows a visitor see 10 random person and they can able to edit and delete
 
-## Available Scripts
+ [Live Demo](https://serene-cray-a3cd42.netlify.app/)
 
-In the project directory, you can run:
+## Usage
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ Clone this repository to your local system.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+git clone [repo link]
+```
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Install the dependencies using the following command.
 
-### `yarn build`
+```
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ Run the app using the following command.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Home Page
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- User can see list of all people
+- User can able to give like for individual people
+- User can also able to delete the item which is shown in the UI
+- User can able to edit the information 
+- User can see loading indicator when the API call is in progress
+### Credits
 
-## Learn More
+I don't own the content such as icons and images on this web app, this was purely developed with an intent of learning and fun.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Icons - Google Material Fonts | Bootstrap Icons
+- References - [MDN](https://developer.mozilla.org/en-US/) | [w3schools](https://www.w3schools.com/) | [Bootstrap](https://getbootstrap.com/) | [Spinkit](https://tobiasahlin.com/spinkit/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+### Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
+
+### Libraries
+
+- React
+- Axios
+- bootstrap
+
+
+
+### Screenshots
+
+
+
+![tartan_1](https://user-images.githubusercontent.com/51481112/126263173-42a9a6a8-d9ed-4c39-a222-33326dc219fd.jpg)
+
+
+### Contributors
+
+ [Naga Sowmya Narayanan](https://naga12031998.github.io/)
