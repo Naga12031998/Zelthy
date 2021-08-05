@@ -41,11 +41,9 @@ const App = (): React.ReactElement => {
   };
 
   useEffect(() => {
-    setTimeout(() => {
-      axios.get("https://jsonplaceholder.typicode.com/users").then((res) => {
-        setUserDetails(res.data);
-      });
-    }, 1000);
+    axios.get("https://jsonplaceholder.typicode.com/users").then((res) => {
+      setUserDetails(res.data);
+    });
   }, []);
 
   // deleting the user from the DOM
