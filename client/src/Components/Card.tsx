@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import CardFooter from "./CardFooter";
 import ListComponent from "./ListComponent";
 import { CardProps } from "../types/index";
+import "../App.css";
 
 const Card = (props: CardProps): React.ReactElement => {
   const { image, email, mobile, name, website, deleteUser, id, onEditClick } =
@@ -14,7 +15,7 @@ const Card = (props: CardProps): React.ReactElement => {
 
   return (
     <div className="card mb-3 mt-3" style={{ width: "18rem" }}>
-      <div style={{ backgroundColor: "#F7F7F7", textAlign: "center" }}>
+      <div className="image">
         <img
           src={image}
           className="card-img-top"
